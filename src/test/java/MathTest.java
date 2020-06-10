@@ -11,7 +11,7 @@ class MathTest {
 	
 	@Test
 	void testDivide() {
-		assertEquals(4, Math.divide(9, 3));
+		assertEquals(3, Math.divide(9, 3));
 	}
 
 }
